@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Class,City,Math_Score,Science_Score,Attendance_Percent,Club
+S001,Asha,14,8,Delhi,88,91,96.0,Robotics
+S002,Ben,13,8,Mumbai,76,82,89.5,Art
+S003,Chen,14,8,Bengaluru,93,89,98.0,Science
+S004,Divya,13,8,Chennai,81,,92.0,Music
+S005,Eli,14,8,Delhi,69,74,85.0,Art
+S006,Farah,13,8,Jaipur,95,97,99.0,Robotics
+S007,George,14,8,Mumbai,72,78,,Sports
+S008,Hana,13,8,Bengaluru,84,88,94.5,Science
+S009,Ivan,14,8,Chennai,,80,90.0,Sports
+S010,Jia,13,8,Jaipur,90,93,97.5,
